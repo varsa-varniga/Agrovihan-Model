@@ -1,0 +1,190 @@
+{
+  "languages": {
+    "en": {
+      "greetings": {
+        "welcome": "Hello! I am AgroVihan, your farm helper.",
+        "how_can_help": "How can I help you? Ask me questions related to farming, fertilizers, irrigation, pests, or any other agricultural topics.",
+        "greeting_responses": [
+          "hello",
+          "hi",
+          "hey",
+          "good morning",
+          "good afternoon",
+          "good evening",
+          "greetings"
+        ]
+      },
+      "questions": [
+        {
+          "id": 1,
+          "keywords": ["fertilizer", "nutrient", "soil", "manure", "compost"],
+          "answer": "Use organic fertilizers like Panchagavya, vermicompost, or Neem-based sprays for better crop growth. Chemical fertilizers should be used sparingly and based on soil test results."
+        },
+        {
+          "id": 2,
+          "keywords": ["water", "irrigation", "watering", "dry", "drought"],
+          "answer": "For optimal irrigation, use drip irrigation systems or water during early morning hours. Monitor soil moisture regularly and irrigate based on crop requirements."
+        },
+        {
+          "id": 3,
+          "keywords": ["pest", "insects", "disease", "fungus", "infestation"],
+          "answer": "Try natural pest control methods using neem oil, garlic spray, or introduce beneficial insects. Regular crop rotation and proper spacing can prevent many diseases."
+        },
+        {
+          "id": 4,
+          "keywords": ["plant", "seed", "sow", "germination", "planting"],
+          "answer": "Plant seeds at proper depth (2-3 times the seed diameter) and maintain consistent moisture. Consider the season and climate requirements for each crop."
+        },
+        {
+          "id": 5,
+          "keywords": ["harvest", "pick", "reap", "collection", "yield"],
+          "answer": "Harvest crops when they reach maturity. Check color, size, and firmness indicators. Morning is the best time for harvest to maintain freshness."
+        },
+        {
+          "id": 6,
+          "keywords": [
+            "organic",
+            "chemical-free",
+            "natural",
+            "sustainable",
+            "bio"
+          ],
+          "answer": "Organic farming involves using natural materials and methods. Avoid synthetic pesticides and fertilizers. Focus on building healthy soil through composting and crop rotation."
+        },
+        {
+          "id": 7,
+          "keywords": ["paddy", "rice", "grain", "wheat", "cereal"],
+          "answer": "For paddy cultivation, maintain water levels, control weeds, and ensure proper nutrient management. Direct seeding or transplanting methods can be used based on your region."
+        },
+        {
+          "id": 8,
+          "keywords": ["vegetables", "vegetable", "produce", "tomato", "onion"],
+          "answer": "For vegetables, ensure proper spacing, regular watering, and harvest at peak freshness. Consider companion planting and mulching for better results."
+        }
+      ],
+      "default_response": "I'm sorry, I don't have information on that topic. Please try asking about fertilizers, irrigation, pests, or other farming topics."
+    },
+    "ta": {
+      "greetings": {
+        "welcome": "வணக்கம்! நான் அக்ரோவிஹான், உங்கள் விவசாய உதவியாளர்.",
+        "how_can_help": "நான் உங்களுக்கு எவ்வாறு உதவ முடியும்? விவசாயம், உரங்கள், நீர்ப்பாசனம், பூச்சிகள் அல்லது பிற விவசாயம் தொடர்பான கேள்விகளைக் கேளுங்கள்.",
+        "greeting_responses": [
+          "வணக்கம்",
+          "ஹலோ",
+          "ஹாய்",
+          "காலை வணக்கம்",
+          "மதிய வணக்கம்",
+          "மாலை வணக்கம்",
+          "வாழ்த்துகள்"
+        ]
+      },
+      "questions": [
+        {
+          "id": 1,
+          "keywords": ["உரம்", "ஊட்டச்சத்து", "மண்", "எரு", "கம்போஸ்ட்"],
+          "answer": "பஞ்சகவ்யா, மண்புழு உரம் அல்லது வேம்பு அடிப்படையிலான தெளிப்பு போன்ற இயற்கை உரங்களை பயன்படுத்துங்கள். ரசாயன உரங்களை குறைவாகவும் மண் பரிசோதனையின் அடிப்படையிலும் பயன்படுத்த வேண்டும்."
+        },
+        {
+          "id": 2,
+          "keywords": ["நீர்", "நீர்ப்பாசனம்", "வறட்சி", "தண்ணீர்", "பாசனம்"],
+          "answer": "சிறந்த நீர்ப்பாசனத்திற்கு, சொட்டு நீர் பாசன முறையைப் பயன்படுத்துங்கள் அல்லது அதிகாலையில் நீர் பாய்ச்சுங்கள். மண்ணின் ஈரப்பதத்தை தொடர்ந்து கண்காணித்து பயிரின் தேவைக்கேற்ப நீர்ப்பாசனம் செய்யுங்கள்."
+        },
+        {
+          "id": 3,
+          "keywords": ["பூச்சி", "நோய்", "களை", "பூஞ்சை"],
+          "answer": "வேப்ப எண்ணெய், பூண்டு தெளிப்பு போன்ற இயற்கை முறைகளைப் பயன்படுத்தவும் அல்லது நன்மை செய்யும் பூச்சிகளை அறிமுகப்படுத்தவும். பயிர் சுழற்சி மற்றும் சரியான இடைவெளி பல நோய்களைத் தடுக்கும்."
+        },
+        {
+          "id": 4,
+          "keywords": ["விதை", "நடவு", "முளைப்பு", "விதைப்பு"],
+          "answer": "விதைகளை சரியான ஆழத்தில் (விதை விட்டத்தின் 2-3 மடங்கு) நடவு செய்து, சீரான ஈரப்பதத்தை பராமரிக்கவும். ஒவ்வொரு பயிருக்கும் பருவம் மற்றும் காலநிலை தேவைகளை கருத்தில் கொள்ளுங்கள்."
+        },
+        {
+          "id": 5,
+          "keywords": ["அறுவடை", "மகசூல்", "விளைச்சல்"],
+          "answer": "பயிர்கள் முதிர்ச்சி அடையும் போது அறுவடை செய்யுங்கள். நிறம், அளவு மற்றும் கடினத்தன்மை குறிகாட்டிகளை சரிபார்க்கவும். புத்துணர்ச்சியை பராமரிக்க காலை நேரம் அறுவடைக்கு சிறந்தது."
+        },
+        {
+          "id": 6,
+          "keywords": ["இயற்கை", "ஆர்கானிக்", "நிலைத்த", "சுற்றுச்சூழல்"],
+          "answer": "இயற்கை விவசாயம் இயற்கை பொருட்கள் மற்றும் முறைகளைப் பயன்படுத்துவதாகும். செயற்கை பூச்சிக்கொல்லிகள் மற்றும் உரங்களைத் தவிர்க்கவும். மக்கும் குப்பை மற்றும் பயிர் சுழற்சி மூலம் ஆரோக்கியமான மண்ணை உருவாக்குவதில் கவனம் செலுத்துங்கள்."
+        },
+        {
+          "id": 7,
+          "keywords": ["நெல்", "அரிசி", "தானியம்", "கோதுமை"],
+          "answer": "நெல் பயிரிடுவதற்கு, நீர் மட்டங்களை பராமரிக்கவும், களைகளை கட்டுப்படுத்தவும் மற்றும் சரியான ஊட்டச்சத்து மேலாண்மையை உறுதி செய்யவும். உங்கள் பகுதியின் அடிப்படையில் நேரடி விதைப்பு அல்லது நாற்று நடவு முறைகளைப் பயன்படுத்தலாம்."
+        },
+        {
+          "id": 8,
+          "keywords": ["காய்கறி", "தக்காளி", "வெங்காயம்", "கீரை"],
+          "answer": "காய்கறிகளுக்கு, சரியான இடைவெளி, வழக்கமான நீர்ப்பாசனம் மற்றும் உச்ச புத்துணர்ச்சியுடன் அறுவடை செய்வதை உறுதி செய்யுங்கள். சிறந்த முடிவுகளுக்கு துணை பயிர் முறை மற்றும் மல்ச்சிங் பயன்படுத்தவும்."
+        },
+        {
+          "id": 9,
+          "keywords": ["மண்"],
+          "answer": "மண் என்பது பயிரின் வளர்ச்சிக்குத் தளமாக அமைகிறது. மண் பரிசோதனை மூலம் உரங்கள் மற்றும் பாசன திட்டங்களைத் திட்டமிடலாம். உங்களது மண்ணின் வகையை (கரி, செம்பல், மணல்) அறிந்து அதற்கேற்ற பயிர்களை தேர்வு செய்யுங்கள்."
+        }
+      ],
+      "default_response": "மன்னிக்கவும், அந்த தலைப்பில் என்னிடம் தகவல் இல்லை. தயவுசெய்து உரங்கள், நீர்ப்பாசனம், பூச்சிகள் அல்லது பிற விவசாய தலைப்புகளைப் பற்றி கேளுங்கள்."
+    },
+    "hi": {
+      "greetings": {
+        "welcome": "नमस्ते! मैं एग्रोविहान हूँ, आपका खेती सहायक।",
+        "how_can_help": "मैं आपकी कैसे मदद कर सकता हूँ? खेती, उर्वरक, सिंचाई, कीट, या अन्य कृषि संबंधी विषयों के बारे में मुझसे सवाल पूछें।",
+        "greeting_responses": [
+          "नमस्ते",
+          "हेलो",
+          "हाय",
+          "सुप्रभात",
+          "शुभ दोपहर",
+          "शुभ संध्या",
+          "प्रणाम"
+        ]
+      },
+      "questions": [
+        {
+          "id": 1,
+          "keywords": ["उर्वरक", "खाद", "मिट्टी", "पोषक", "कम्पोस्ट"],
+          "answer": "पंचगव्य, वर्मीकम्पोस्ट, या नीम आधारित स्प्रे जैसे जैविक उर्वरकों का उपयोग करें। रासायनिक उर्वरकों का उपयोग कम से कम और मिट्टी परीक्षण परिणामों के आधार पर करना चाहिए।"
+        },
+        {
+          "id": 2,
+          "keywords": ["पानी", "सिंचाई", "सूखा", "जल"],
+          "answer": "इष्टतम सिंचाई के लिए, ड्रिप सिंचाई प्रणाली का उपयोग करें या सुबह के समय पानी दें। मिट्टी की नमी की नियमित निगरानी करें और फसल की आवश्यकताओं के आधार पर सिंचाई करें।"
+        },
+        {
+          "id": 3,
+          "keywords": ["कीट", "रोग", "कीड़े", "फंगस", "खरपतवार"],
+          "answer": "नीम तेल, लहसुन स्प्रे जैसे प्राकृतिक कीट नियंत्रण विधियों का प्रयास करें, या लाभकारी कीड़ों को शामिल करें। नियमित फसल चक्र और उचित दूरी कई रोगों को रोक सकती है।"
+        },
+        {
+          "id": 4,
+          "keywords": ["बीज", "बुवाई", "रोपण", "अंकुरण"],
+          "answer": "बीजों को उचित गहराई (बीज के व्यास का 2-3 गुना) पर बोएं और सतत नमी बनाए रखें। प्रत्येक फसल के लिए मौसम और जलवायु आवश्यकताओं पर विचार करें।"
+        },
+        {
+          "id": 5,
+          "keywords": ["कटाई", "फसल", "उपज"],
+          "answer": "फसलों की कटाई तब करें जब वे परिपक्वता तक पहुंच जाएं। रंग, आकार और दृढ़ता संकेतकों की जांच करें। ताजगी बनाए रखने के लिए सुबह का समय कटाई के लिए सबसे अच्छा है।"
+        },
+        {
+          "id": 6,
+          "keywords": ["जैविक", "प्राकृतिक", "रसायन-मुक्त", "टिकाऊ"],
+          "answer": "जैविक खेती में प्राकृतिक सामग्री और तरीकों का उपयोग शामिल है। सिंथेटिक कीटनाशकों और उर्वरकों से बचें। कम्पोस्टिंग और फसल चक्र के माध्यम से स्वस्थ मिट्टी के निर्माण पर ध्यान दें।"
+        },
+        {
+          "id": 7,
+          "keywords": ["धान", "चावल", "अनाज", "गेहूं"],
+          "answer": "धान की खेती के लिए, जल स्तर बनाए रखें, खरपतवार नियंत्रित करें, और उचित पोषक तत्व प्रबंधन सुनिश्चित करें। आपके क्षेत्र के आधार पर सीधी बुवाई या रोपाई विधियों का उपयोग किया जा सकता है।"
+        },
+        {
+          "id": 8,
+          "keywords": ["सब्जी", "सब्जियां", "टमाटर", "प्याज", "हरी"],
+          "answer": "सब्जियों के लिए, उचित दूरी, नियमित सिंचाई सुनिश्चित करें और ताजगी के चरम पर कटाई करें। बेहतर परिणामों के लिए साथी रोपण और मल्चिंग पर विचार करें।"
+        }
+      ],
+      "default_response": "मुझे खेद है, मेरे पास उस विषय पर जानकारी नहीं है। कृपया उर्वरक, सिंचाई, कीट, या अन्य कृषि विषयों के बारे में पूछें।"
+    }
+  },
+  "default_language": "en"
+}
