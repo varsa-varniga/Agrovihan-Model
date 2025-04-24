@@ -1,0 +1,401 @@
+crop_type,phase,temp (°C),humidity (%),rain (mm),wind_speed (km/h),suggestion
+Maize,Vegetative,34,74,32,11,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Millet,Germination,23,78,55,7,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Sugarcane,Germination,26,82,61,11,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Banana,Harvest,30,77,0,11,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Maize,Vegetative,31,72,24,11,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Cotton,Flowering,34,67,7,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Groundnut,Vegetative,33,74,34,16,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Brinjal,Flowering,37,71,11,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Maize,Germination,31,79,58,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Vegetative,31,80,37,13,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Groundnut,Flowering,35,64,0,12,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Maize,Germination,29,80,67,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Tomato,Vegetative,27,66,41,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Groundnut,Flowering,35,66,9,15,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Tomato,Flowering,35,77,17,14,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Brinjal,Flowering,37,72,5,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Millet,Germination,25,80,55,10,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Groundnut,Harvest,28,72,10,10,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Cotton,Flowering,33,63,21,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Tomato,Vegetative,33,78,50,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Tomato,Vegetative,28,66,35,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Sugarcane,Germination,24,80,64,10,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Maize,Germination,27,80,35,11,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Maize,Vegetative,32,74,30,13,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Tomato,Flowering,34,69,17,14,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Millet,Germination,23,83,55,10,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Sugarcane,Germination,25,80,58,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Tomato,Flowering,35,69,16,14,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Sugarcane,Germination,23,90,56,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Banana,Harvest,30,72,0,9,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Tomato,Vegetative,31,77,41,8,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Cotton,Flowering,37,64,10,17,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Banana,Harvest,30,76,0,12,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Tomato,Vegetative,27,74,33,11,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Rice,Flowering,37,72,12,15,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Millet,Flowering,32,66,19,15,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Coconut,Harvest,24,68,8,11,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Groundnut,Harvest,32,79,0,13,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Coconut,Flowering,34,62,14,13,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Flowering,38,70,1,17,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Flowering,34,69,3,18,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Cotton,Flowering,33,70,16,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Sugarcane,Germination,26,83,56,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Flowering,34,71,11,15,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Cotton,Flowering,36,68,3,18,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Rice,Flowering,34,78,10,16,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Groundnut,Flowering,37,68,7,15,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Brinjal,Vegetative,28,85,25,14,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Banana,Harvest,27,76,8,11,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Groundnut,Harvest,31,70,11,12,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Maize,Germination,31,78,45,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Harvest,32,75,17,10,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Cotton,Flowering,37,67,18,18,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Maize,Germination,32,80,53,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Millet,Flowering,33,61,15,13,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Groundnut,Vegetative,34,73,29,14,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Tomato,Vegetative,33,82,47,11,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Tomato,Flowering,32,77,7,14,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Groundnut,Harvest,31,77,17,13,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Cotton,Flowering,37,69,21,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Vegetative,30,88,14,13,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Groundnut,Harvest,31,79,16,13,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Groundnut,Vegetative,34,76,33,16,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Sugarcane,Germination,23,82,56,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Coconut,Harvest,26,72,1,10,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Maize,Vegetative,34,70,34,12,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Cotton,Flowering,37,63,17,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Coconut,Harvest,34,73,10,7,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Millet,Germination,24,78,49,10,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Cotton,Vegetative,31,75,45,8,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Maize,Vegetative,33,74,38,9,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Millet,Germination,25,83,46,7,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Maize,Germination,28,84,37,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Coconut,Harvest,27,67,13,12,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Groundnut,Vegetative,33,74,33,15,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Millet,Germination,24,82,58,9,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Maize,Germination,32,85,63,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Sugarcane,Germination,23,83,70,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Coconut,Flowering,36,66,0,11,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Vegetative,28,90,29,12,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Tomato,Vegetative,30,78,59,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Tomato,Vegetative,31,68,42,13,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Groundnut,Vegetative,31,73,46,14,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Brinjal,Vegetative,27,82,15,11,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Tomato,Vegetative,32,75,57,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Groundnut,Flowering,33,64,0,11,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Brinjal,Vegetative,26,86,19,10,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Tomato,Vegetative,33,80,58,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Coconut,Flowering,32,65,9,14,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Coconut,Harvest,30,64,0,11,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Sugarcane,Germination,24,81,67,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Banana,Harvest,26,69,7,9,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Tomato,Vegetative,28,71,30,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Coconut,Harvest,31,72,0,9,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Groundnut,Harvest,31,74,9,10,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Tomato,Vegetative,30,74,30,9,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Tomato,Vegetative,29,67,30,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Tomato,Flowering,31,69,1,15,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Cotton,Vegetative,30,76,55,8,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Coconut,Flowering,34,60,6,11,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Coconut,Flowering,32,64,2,13,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Cotton,Vegetative,30,73,58,12,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Banana,Harvest,30,72,0,9,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Banana,Harvest,30,74,0,9,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Coconut,Harvest,34,70,9,9,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Groundnut,Vegetative,33,75,36,14,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Cotton,Flowering,37,61,2,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Rice,Flowering,37,72,18,19,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Maize,Germination,30,79,67,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Coconut,Harvest,31,70,0,10,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Banana,Harvest,28,79,0,12,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Groundnut,Flowering,33,67,4,13,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Cotton,Vegetative,32,78,44,10,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Coconut,Harvest,33,67,3,10,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Banana,Harvest,29,76,0,9,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Rice,Flowering,36,82,12,18,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Brinjal,Flowering,37,74,11,17,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Flowering,34,70,0,17,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Vegetative,28,85,15,13,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Banana,Harvest,29,77,0,13,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Cotton,Flowering,36,65,14,18,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Tomato,Flowering,32,71,12,18,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Maize,Germination,30,80,62,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Brinjal,Flowering,34,73,0,15,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Cotton,Vegetative,29,82,55,12,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Rice,Flowering,38,80,22,19,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Groundnut,Vegetative,33,72,28,13,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Coconut,Harvest,28,72,12,8,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Coconut,Harvest,30,70,6,7,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Maize,Germination,29,85,48,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Brinjal,Flowering,36,74,0,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Banana,Harvest,27,69,1,11,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Tomato,Flowering,34,71,1,17,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Tomato,Vegetative,31,72,40,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Millet,Flowering,34,65,4,13,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Maize,Germination,30,87,53,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Cotton,Vegetative,31,75,48,12,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Tomato,Vegetative,29,66,33,9,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Millet,Flowering,35,63,21,15,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Coconut,Harvest,34,70,2,10,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Rice,Flowering,36,74,19,15,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Millet,Flowering,34,67,21,16,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Maize,Germination,27,81,39,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Sugarcane,Germination,23,85,70,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Cotton,Flowering,36,67,14,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Maize,Vegetative,34,74,19,11,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Coconut,Harvest,32,71,14,10,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Maize,Vegetative,31,72,26,11,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Tomato,Vegetative,27,73,26,13,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Millet,Germination,27,78,46,6,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Millet,Flowering,31,64,14,12,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Maize,Vegetative,35,73,23,11,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Tomato,Vegetative,29,72,41,13,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Groundnut,Vegetative,31,75,42,16,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Groundnut,Harvest,31,75,0,14,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Banana,Harvest,30,74,0,10,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Coconut,Harvest,32,70,14,8,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Groundnut,Harvest,28,69,8,14,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Banana,Harvest,26,78,0,9,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Coconut,Harvest,24,72,0,10,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Groundnut,Flowering,35,74,0,13,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Cotton,Flowering,35,70,15,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Coconut,Flowering,34,65,17,13,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Coconut,Flowering,33,68,6,14,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Banana,Harvest,29,72,0,13,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Maize,Germination,27,77,45,15,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Cotton,Flowering,34,70,9,20,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Sugarcane,Germination,25,82,66,10,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Tomato,Vegetative,29,80,44,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Banana,Harvest,28,75,0,11,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Rice,Flowering,35,77,14,17,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Tomato,Flowering,33,69,19,16,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Banana,Harvest,30,73,8,9,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Brinjal,Vegetative,29,80,12,11,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Cotton,Flowering,35,65,4,18,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Coconut,Flowering,35,68,10,14,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Flowering,37,76,0,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Groundnut,Flowering,36,74,3,14,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Cotton,Vegetative,31,82,53,12,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Coconut,Flowering,34,60,9,10,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Coconut,Harvest,31,73,13,11,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Banana,Harvest,26,75,2,11,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Maize,Germination,28,84,43,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Harvest,30,76,2,12,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Cotton,Vegetative,32,74,41,12,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Cotton,Vegetative,32,81,46,8,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Millet,Flowering,31,66,11,14,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Brinjal,Vegetative,30,80,26,11,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Cotton,Vegetative,29,79,45,11,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Brinjal,Vegetative,28,89,14,11,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Tomato,Vegetative,29,76,42,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Brinjal,Flowering,34,71,0,18,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Sugarcane,Germination,24,86,70,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Tomato,Vegetative,31,72,36,13,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Millet,Germination,25,78,48,9,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Cotton,Vegetative,32,80,54,9,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Coconut,Flowering,34,60,3,14,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Millet,Flowering,33,67,17,13,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Groundnut,Harvest,30,74,3,10,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Millet,Germination,27,85,47,9,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Sugarcane,Germination,25,87,67,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Rice,Flowering,38,81,10,16,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Cotton,Flowering,37,63,12,18,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Coconut,Harvest,32,67,12,8,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Banana,Harvest,29,76,0,12,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Coconut,Harvest,24,74,6,10,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Tomato,Vegetative,27,75,36,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Millet,Germination,26,84,45,10,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Rice,Flowering,37,79,23,15,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Groundnut,Flowering,34,71,0,11,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Maize,Germination,28,86,40,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Tomato,Vegetative,31,77,55,9,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Cotton,Vegetative,31,79,53,9,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Tomato,Flowering,35,76,13,14,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Brinjal,Vegetative,30,90,19,11,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Maize,Germination,28,79,54,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Millet,Flowering,32,60,23,16,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Tomato,Vegetative,29,70,33,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Coconut,Harvest,24,72,0,8,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Brinjal,Flowering,34,78,10,17,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Maize,Vegetative,31,72,25,10,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Millet,Flowering,33,67,8,13,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Millet,Germination,25,81,40,7,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Brinjal,Vegetative,27,80,30,10,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Groundnut,Flowering,34,68,4,11,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Maize,Germination,31,81,57,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Cotton,Vegetative,30,83,49,8,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Cotton,Flowering,37,69,5,20,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Vegetative,29,86,14,11,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Cotton,Flowering,33,68,10,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Flowering,35,75,0,17,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Tomato,Vegetative,29,66,39,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Millet,Flowering,35,68,7,14,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Tomato,Vegetative,30,76,60,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Millet,Germination,23,80,47,6,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Maize,Vegetative,33,71,34,12,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Groundnut,Vegetative,33,80,46,12,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Maize,Vegetative,34,75,30,9,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Tomato,Vegetative,31,73,43,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Maize,Germination,29,88,53,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Maize,Germination,29,76,50,15,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Flowering,36,68,10,12,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Millet,Flowering,35,68,20,14,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Cotton,Flowering,36,69,7,17,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Cotton,Vegetative,28,76,55,8,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Maize,Germination,30,79,66,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Maize,Germination,30,82,68,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Coconut,Harvest,30,63,0,7,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Tomato,Vegetative,29,78,51,9,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Sugarcane,Germination,27,87,68,11,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Rice,Flowering,38,74,22,19,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Groundnut,Flowering,36,67,8,13,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Coconut,Harvest,28,76,10,10,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Coconut,Flowering,32,63,13,11,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Groundnut,Vegetative,30,80,39,12,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Tomato,Flowering,35,78,5,18,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Brinjal,Flowering,38,74,10,15,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Groundnut,Harvest,28,77,0,13,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Tomato,Flowering,31,76,4,15,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Cotton,Flowering,34,65,17,20,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Maize,Germination,29,78,43,15,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Harvest,30,72,1,12,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Tomato,Vegetative,33,79,60,8,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Coconut,Harvest,26,72,5,9,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Coconut,Harvest,28,76,13,10,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Groundnut,Vegetative,33,80,35,13,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Tomato,Vegetative,31,71,42,9,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Groundnut,Flowering,33,67,10,15,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Maize,Germination,27,81,51,15,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Coconut,Harvest,25,75,10,10,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Coconut,Harvest,28,73,8,11,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Groundnut,Vegetative,31,72,31,13,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Millet,Germination,23,83,50,6,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Coconut,Harvest,30,66,3,11,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Coconut,Flowering,35,60,0,10,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Tomato,Vegetative,31,75,24,11,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Coconut,Flowering,32,68,2,13,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Maize,Germination,28,84,60,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Banana,Harvest,28,71,0,11,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Brinjal,Vegetative,29,82,13,14,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Maize,Germination,28,80,34,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Harvest,28,79,4,11,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Millet,Germination,24,82,41,6,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Banana,Harvest,26,73,0,10,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Maize,Germination,30,84,65,12,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Vegetative,34,72,44,15,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Tomato,Vegetative,29,76,44,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Brinjal,Vegetative,26,89,30,12,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Millet,Germination,23,81,41,6,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Banana,Harvest,27,72,3,11,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Millet,Germination,27,87,55,6,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Maize,Vegetative,33,80,32,13,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Cotton,Vegetative,31,73,58,10,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Sugarcane,Germination,26,81,66,11,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Sugarcane,Germination,23,89,61,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Brinjal,Vegetative,28,90,13,13,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Tomato,Vegetative,29,70,37,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Cotton,Flowering,36,62,16,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Vegetative,27,89,16,10,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Maize,Vegetative,34,80,35,11,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Cotton,Vegetative,32,80,60,9,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Maize,Germination,29,83,44,11,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Tomato,Vegetative,29,72,49,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Maize,Vegetative,34,77,29,10,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Maize,Vegetative,31,77,23,13,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Millet,Germination,27,88,38,8,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Maize,Vegetative,31,78,29,13,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Rice,Flowering,35,72,9,16,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Coconut,Harvest,26,68,10,12,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Cotton,Vegetative,28,73,50,12,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Coconut,Harvest,28,75,4,12,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Banana,Harvest,28,70,0,9,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Cotton,Flowering,35,70,10,20,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Millet,Flowering,34,66,10,15,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Tomato,Flowering,32,73,9,17,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Coconut,Flowering,32,67,5,12,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Millet,Germination,23,85,44,9,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Maize,Vegetative,33,77,27,11,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Cotton,Flowering,35,70,20,18,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Tomato,Vegetative,32,80,56,8,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Maize,Germination,30,85,36,15,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Vegetative,34,73,39,15,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Groundnut,Vegetative,33,70,40,15,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Groundnut,Vegetative,34,73,40,15,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Coconut,Harvest,33,65,10,8,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Tomato,Vegetative,30,77,46,8,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Groundnut,Harvest,28,73,0,12,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Coconut,Harvest,28,66,14,11,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Groundnut,Vegetative,31,76,46,12,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Millet,Germination,26,81,41,6,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Millet,Germination,26,84,41,8,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Groundnut,Flowering,35,69,0,13,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Groundnut,Flowering,34,64,2,11,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Tomato,Flowering,32,74,16,16,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Cotton,Vegetative,28,74,53,11,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Tomato,Vegetative,30,73,44,12,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Maize,Germination,32,82,67,11,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Maize,Vegetative,32,71,22,12,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Sugarcane,Germination,25,85,70,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Tomato,Vegetative,28,70,26,10,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Millet,Flowering,32,65,21,12,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Coconut,Harvest,34,73,9,7,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Sugarcane,Germination,27,81,58,14,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Coconut,Harvest,31,71,0,8,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Tomato,Flowering,34,72,3,16,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Cotton,Flowering,35,68,4,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Tomato,Flowering,33,72,4,16,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Groundnut,Flowering,35,70,0,11,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Coconut,Flowering,33,65,11,13,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Groundnut,Flowering,35,70,0,11,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Groundnut,Harvest,30,75,17,14,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Maize,Vegetative,33,80,18,11,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Groundnut,Vegetative,31,79,32,16,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Brinjal,Vegetative,27,87,14,10,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Brinjal,Flowering,35,79,0,17,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Millet,Flowering,33,61,9,15,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Tomato,Flowering,33,72,16,17,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Sugarcane,Germination,26,87,67,13,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Millet,Flowering,34,63,16,13,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Cotton,Flowering,33,69,11,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Banana,Harvest,28,78,10,9,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Banana,Harvest,30,79,0,12,Harvest crops at their peak maturity for the best quality and highest yield. Monitor for signs of ripeness.
+Coconut,Harvest,32,65,8,9,"Store harvested crops in cool, dry conditions to prevent post-harvest losses due to mold or rot."
+Brinjal,Flowering,36,72,0,16,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Maize,Germination,29,88,59,11,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Sugarcane,Germination,24,87,70,11,Protect seeds from extreme temperatures by maintaining an optimal range. Regularly check soil temperature to support germination.
+Groundnut,Vegetative,33,79,33,16,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Groundnut,Harvest,28,75,16,14,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Maize,Vegetative,31,78,34,10,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Groundnut,Harvest,29,69,11,12,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Millet,Flowering,34,64,9,15,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Maize,Vegetative,34,78,27,9,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Millet,Flowering,34,63,7,12,"Monitor the environment for stress factors such as temperature fluctuations, which can affect flower formation."
+Coconut,Flowering,34,62,15,12,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Flowering,34,76,0,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Brinjal,Flowering,37,77,0,17,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Millet,Germination,26,83,57,10,Monitor soil pH levels and adjust if needed to create an ideal environment for seed germination.
+Groundnut,Harvest,28,69,15,11,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Groundnut,Vegetative,31,72,37,14,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Cotton,Vegetative,32,83,56,9,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Tomato,Vegetative,32,72,45,8,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Tomato,Flowering,34,79,16,15,"Provide adequate watering to support flower development, but avoid overwatering, which could lead to fungal diseases."
+Coconut,Harvest,24,69,0,10,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Tomato,Vegetative,30,74,41,13,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Tomato,Vegetative,33,80,41,11,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Tomato,Vegetative,30,71,26,9,"Increase irrigation if weather is dry, but ensure the soil does not become waterlogged to avoid root rot."
+Brinjal,Flowering,34,73,0,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Maize,Vegetative,31,74,22,11,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Coconut,Harvest,25,74,0,10,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Rice,Flowering,36,79,22,16,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Brinjal,Flowering,36,79,7,18,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
+Groundnut,Vegetative,32,78,29,15,"Remove weeds regularly to prevent competition for water, nutrients, and space, promoting better crop development."
+Maize,Vegetative,34,76,25,13,"Regularly check for nutrient deficiencies such as nitrogen, phosphorus, or potassium and correct as needed."
+Brinjal,Vegetative,29,85,13,14,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Rice,Flowering,35,81,5,16,Maintain a balanced nutrient regimen to support flowering. Apply fertilizers that promote flowering and fruit setting.
+Brinjal,Vegetative,28,82,17,10,Fertilize the soil with balanced nutrients to support the development of strong stems and healthy leaves.
+Coconut,Harvest,25,71,0,11,Use proper harvesting techniques to prevent injury to crops and ensure they are preserved for transport.
+Cotton,Vegetative,29,78,60,8,"Ensure the crop gets enough sunlight for photosynthesis, which is crucial for strong vegetative growth."
+Groundnut,Harvest,32,75,0,14,Check weather forecasts before harvesting. Avoid harvesting during rainy periods to prevent spoilage and damage.
+Brinjal,Flowering,38,75,0,19,Ensure pollination is happening properly by attracting pollinators or using manual methods if necessary.
